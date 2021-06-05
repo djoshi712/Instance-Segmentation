@@ -17,4 +17,4 @@ Use wrist frcature dataset and --
 7. use labelme and start annotating the dataset by creating the segmentation mask
 8. convert to coco format using labelme2coco.py file
 9. split the dataset into train and test set randomly (80:20)
-10. Train the wrist frcature dataset using maskRCNN architecture trained on surfacr crack dataset and save it as "final_model.pth"
+10. Train the wrist frcature dataset using maskRCNN architecture trained on surfacr crack dataset and save it as "model_final.pth"
